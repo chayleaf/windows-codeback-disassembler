@@ -1,3 +1,5 @@
+**Current version: 1.05**
+
 What is WCB ?
 
 Windows CodeBack (WCB) is a disassembler designed exclusively for Microsoft
